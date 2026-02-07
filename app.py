@@ -27,4 +27,5 @@ output_parser=StrOutputParser()
 chain=prompt|llm|output_parser
 
 if input_txt:
+    
     st.write(chain.invoke({"question":input_txt}))
