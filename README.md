@@ -1,13 +1,13 @@
-# Ollama LangChain Chatbot (Gemma 4B)
+# Ollama LangChain Chatbot (Gemma3:4B)
 
-A simple chatbot built using **LangChain**, **Ollama**, and **Streamlit**, running fully **locally** with the **Gemma 4B** model.  
+A simple chatbot built using **LangChain**, **Ollama**, and **Streamlit**, running fully **locally** with the **Gemma 3:B** model.  
 No OpenAI API key. No paid services.
 
 ---
 
 ## Features
 - Runs locally using Ollama
-- Uses Gemma 4B LLM
+- Uses Gemma3:4B LLM
 - Streamlit-based UI
 - LangChain prompt chaining
 - Free and offline-friendly
@@ -19,7 +19,7 @@ No OpenAI API key. No paid services.
 - LangChain
 - Ollama
 - Streamlit
-- Gemma 4B
+- Gemma3:4B
 
 ---
 
