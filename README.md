@@ -86,7 +86,3 @@ GitHub
 [https://github.com/Tharasri78](https://github.com/Tharasri78)
 
 
-
----
-
-If you want, I can also show you **how to turn this into a proper AI chatbot project with a simple web interface (so it looks much stronger on your GitHub).**
